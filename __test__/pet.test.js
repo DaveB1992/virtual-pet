@@ -15,12 +15,12 @@ describe('constructor', () => {
     })
     it('has inital hunger of 0', () => {
       const pet = new Pet ('Bob')
-      pet.getHungry()
+      pet.growUp()
       expect(pet.hunger).toEqual(5)
     })
     it('has inital fitness of 10', () => {
       const pet = new Pet ('Bob')
-      pet.becomeUnfit()
+      pet.growUp()
       expect(pet.fitness).toEqual(7)
     })
     });
