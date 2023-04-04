@@ -28,7 +28,7 @@ When the pets fitness and hunger equal 4, it will return "I feel Great!"
 # Testing
 For out testing we are using Jest and test withing the Node REPL. The tests check all of the variables above. 
 
-#What Would I do if I had more time?
+# What Would I do if I had more time?
 I would create a pet in css and html to have this shown in real time as the functions are called .
 I would also like to Dry up the tests now that I have learnt more about beforeEach() 
 
