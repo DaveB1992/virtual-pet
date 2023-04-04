@@ -7,7 +7,7 @@ Welcome to my Virtual Pet project! This is a project built entirely with JavaScr
 The aim of this exercise is to learn about Object Oriented Programming, and to further practice our unit tests as well as setting up our testing envrioments. This introduced concepts such as Constructor functions along with the Prototype function, and testing in the Node REPL. 
 
 # Technology Used
-*JavaScript
-*Node.JS
-*Jest
+* JavaScript
+* Node.JS
+* Jest
 
